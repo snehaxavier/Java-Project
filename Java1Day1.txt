@@ -1,0 +1,14 @@
+Difference between Interpreter and Compiler:
+Compiler:
+a) Compiler takes entire program as input.
+b) Intermediate Object Code is generated.
+c) Conditional Control Statements are executed faster.
+d) Program need not be compiled every time.
+e) Errors are displayed after entire program is checked.
+
+Interpreter:
+a) Interpreter takes single instruction as input.
+b) No Intermediate Object Code is generated.
+c) Conditional Control Statements are executes slower.
+d) Memory Requirements is Less.
+e) Errors are displayed for every instruction interpreted. 
